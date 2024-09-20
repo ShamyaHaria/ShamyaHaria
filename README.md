@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **shamyaharia@gmail.com**
 
+- 📄 Check out my resume [here](https://drive.google.com/file/d/154grcaIX6Tj6rPIujj_gnSAF8UIUDSvE/view?usp=sharing)
+
 
 	
 ### 🛠 &nbsp;Languages and Tools
