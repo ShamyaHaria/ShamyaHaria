@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **Blockchain Technology**
 
-- 👨‍💻 All of my projects are available [here](https://shamyaharia.github.io/#projects)
+- 👨‍💻 All of my projects are available [here](https://github.com/ShamyaHaria?tab=repositories)
 
 - 💬 Ask me about **FrontEnd** & **Database Management**
 
