@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shamya Haria</h1>
-<h3 align="center">A passionate Web and Android Developer</h3>
+<h3 align="center">A passionate Web, Android and Blockchain Developer</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShamyaHaria&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning about **Blockchain Technology**
+- 🌱 I’m currently learning about **Artificial Intelligence and Machine Learning**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ShamyaHaria?tab=repositories)
 
