@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shamyaharia@gmail.com**
 
-- 📄 Check out my resume [Resume](https://drive.google.com/file/d/1C9786KYzkNHulhgVR77wlZRP4M4wwCoZ/view?usp=drive_link)
+- 📄 Check out my resume [Resume](https://drive.google.com/file/d/1bhO0332uvV9q31Br2yiGc19E0z6ZhRt3/view?usp=sharing)
 
 
 	
